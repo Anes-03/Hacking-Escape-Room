@@ -29,7 +29,7 @@ Wir haben in unserem Fall Folgendes genutzt um den Escape Room durchführen zu k
 - **USB-Stick**
 - **Passwortliste**: Eine Liste von möglichen Passwörtern, diese wird zur Verfügung gestellt in der "Passwörterliste.md" Datei.
 - **Bild mit Steganografie** Datei in den Ressourcen.
-- **Geschichte:** Diese kann in der "Geschichte.md" Datei gefunden werden oder unter: https://riddle.hackingescaperoom.tech
+- **Geschichte:** Diese kann in der "Geschichte.md" Datei gefunden werden oder unter: https://riddle.hackingescaperoom.252425.xyz
 - **Anleitung:** Die Anleitung ist in der "Anleitung.md" Datei zu finden 
 - **Weitere hilfreiche Ressourcen finden sie in dieser Repository**.
 - **Zeit**: Die Zeit variiert je nach Teamgröße, aber rechnet mit etwa 1 bis 2 Stunden, um alle Rätsel zu lösen.
@@ -50,12 +50,10 @@ Viel Spaß beim Entschlüsseln und Hacken!
 
 ## Ressourcen
 
-Für weitere Informationen und um auf alle relevanten Dateien zuzugreifen, besucht bitte die folgenden Links:
+Für weitere Informationen besucht bitte die folgenden Webseiten:
 
-- **Hacking Escape Room Webseite:** [https://hackingescaperoom.tech](https://hackingescaperoom.tech)
-- **Hacking Escape Room Webseite GitHub Repository:** [https://github.com/HackingEscapeRoom/Escape-Room-Website](https://github.com/HackingEscapeRoom/Escape-Room-Website)
-- **Rätselseite:** [https://riddle.hackingescaperoom.tech](https://riddle.hackingescaperoom.tech)
-- **Rätselseite GitHub Repository:** [https://github.com/HackingEscapeRoom/Hacking-Escape-Room-Riddle](https://github.com/HackingEscapeRoom/Hacking-Escape-Room-Riddle)
+- **Hacking Escape Room Webseite:** [https://hackingescaperoom.252425.xyz](https://hackingescaperoom.252425.xyz)
+- **Rätselseite:** [https://riddle.hackingescaperoom.252425.xyz](https://riddle.hackingescaperoom.252425.xyz)
 
 ## Lizenz
 
