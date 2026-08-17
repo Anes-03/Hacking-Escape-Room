@@ -19,7 +19,7 @@ Die Rätsel im Escape Room beinhalten unter anderem:
 
 Um diesen Escape Room durchführen zu können, benötigt ihr folgende Ausstattungen und Tools:
 
-Wir haben in unserem Fall Folgendes genutzt um den Escape Room durchführen zu können.
+In meinem Fall habe ich Folgendes genutzt, um den Escape Room durchführen zu können.
 
 - **Eine Raspberry Pi 4 oder neuer** 
 - **Eine SD-Karte mit mindestens 16 GB**
@@ -46,7 +46,15 @@ Viel Spaß beim Entschlüsseln und Hacken!
 
 - Alle benötigten Materialien und Tools sind in der Repository enthalten.
 - Beachtet, dass dieser Escape Room in einer virtuellen Umgebung gespielt wird – die Tools müssen also auf eurem Rechner installiert werden.
-- Wenn ihr Fragen oder Probleme habt, könnt ihr das GitHub-Issues-Forum nutzen oder euch mit anderen Teilnehmern austauschen.
+- Wenn ihr Fragen, Probleme oder Feedback habt, könnt ihr dafür die GitHub-Issues nutzen.
+
+## Fragen und Feedback
+
+Fragen und Rückmeldungen zum Hacking Escape Room sind willkommen:
+
+- [Eine Frage stellen](https://github.com/Anes-03/Hacking-Escape-Room/issues/new?template=frage.yml)
+- [Feedback geben](https://github.com/Anes-03/Hacking-Escape-Room/issues/new?template=feedback.yml)
+- [Bestehende Issues ansehen](https://github.com/Anes-03/Hacking-Escape-Room/issues)
 
 ## Ressourcen
 

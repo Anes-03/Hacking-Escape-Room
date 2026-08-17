@@ -1,0 +1,42 @@
+name: Feedback
+description: Teile Feedback oder einen Verbesserungsvorschlag zum Hacking Escape Room.
+title: "[Feedback] "
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke, dass du dir Zeit für eine Rückmeldung nimmst.
+
+  - type: dropdown
+    id: bereich
+    attributes:
+      label: Bereich
+      description: Auf welchen Teil bezieht sich dein Feedback?
+      options:
+        - Gesamterlebnis
+        - Einrichtung und Voraussetzungen
+        - Rätsel und Hinweise
+        - Dokumentation
+        - Webseite
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: rueckmeldung
+    attributes:
+      label: Feedback
+      description: Was hat gut funktioniert oder sollte verbessert werden?
+      placeholder: Beschreibe deine Erfahrung oder deinen Verbesserungsvorschlag.
+    validations:
+      required: true
+
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Möglicher Verbesserungsvorschlag
+      description: Wie könnte die Verbesserung konkret aussehen?
+    validations:
+      required: false

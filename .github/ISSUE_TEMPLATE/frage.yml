@@ -1,0 +1,41 @@
+name: Frage
+description: Stelle eine Frage zur Einrichtung oder Durchführung des Hacking Escape Rooms.
+title: "[Frage] "
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für dein Interesse am Hacking Escape Room. Beschreibe deine Frage bitte so genau wie möglich.
+
+  - type: dropdown
+    id: bereich
+    attributes:
+      label: Bereich
+      description: Zu welchem Teil des Projekts gehört deine Frage?
+      options:
+        - Einrichtung und Voraussetzungen
+        - Durchführung des Escape Rooms
+        - Rätsel und Hinweise
+        - Dokumentation
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: frage
+    attributes:
+      label: Frage
+      description: Was möchtest du wissen?
+      placeholder: Beschreibe deine Frage und den relevanten Kontext.
+    validations:
+      required: true
+
+  - type: textarea
+    id: versucht
+    attributes:
+      label: Bereits ausprobiert
+      description: Welche Schritte oder Hinweise hast du bereits ausprobiert?
+    validations:
+      required: false
